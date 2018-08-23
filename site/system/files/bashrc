@@ -1,0 +1,9 @@
+# User specific aliases and functions
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+
+# Source global definitions
+[[ -f /etc/bashrc ]] && source /etc/bashrc
+
+cowsay "Hello there!"

@@ -1,0 +1,10 @@
+################################################
+##      This file is managed by Puppet.       ##
+## Any changes will be gleefully overwritten. ##
+################################################
+
+/bin/sh
+/bin/bash
+/sbin/nologin
+/bin/tcsh
+/bin/csh
