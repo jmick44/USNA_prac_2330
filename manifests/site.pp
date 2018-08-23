@@ -72,6 +72,8 @@ node 'jaime.puppetlabs.vm' {
   include kerberos
   
   include webapp::wordpress
+  
+  include role::nginx
 }
 
 # DEFAULT NODE
